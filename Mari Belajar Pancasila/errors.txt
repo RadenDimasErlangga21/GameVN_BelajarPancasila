@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 521: expected statement.
+    "Tidak":
+           ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Dec 15 22:59:10 2020
